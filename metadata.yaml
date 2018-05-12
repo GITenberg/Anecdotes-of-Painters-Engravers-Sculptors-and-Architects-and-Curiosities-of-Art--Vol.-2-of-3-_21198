@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7989
     wikipedia: http://en.wikipedia.org/wiki/Shearjashub_Spooner
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/21198#Anecdotes-of-Painters-Engravers-Sculptors-and-Architects-and-Curiosities-of-Art--Vol.-2-of-3-
 gutenberg_issued: '2007-04-21'
 gutenberg_type: Text
 identifiers:
